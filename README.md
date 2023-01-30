@@ -1,19 +1,3 @@
-<!DOCTYPE html>
-<html>
-<head>
-  <style>
-    a {
-      text-decoration: none;
-      color: blue;
-    }
-
-    a:hover {
-      color: red;
-      text-decoration: underline;
-    }
-  </style>
-</head>
-<body>
-  <a href="#">Hier klicken</a>
-</body>
-</html>
+<h1 stlye="color: cyan;">Hello everyone Im Merlin</h1><br>
+<h2 style="color: cyan;">Im a little Developer</h2><br>
+<h2 style="color: cyan;">>>> <a href="https://tiktok.com/@merlin_dev" style="color: gray;">TikTok</a></h2>
